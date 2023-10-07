@@ -1,4 +1,15 @@
-header img{
-    width: 8%;
-    height: auto;
+body {
+    background: rgb(253, 255, 133);
+}
+
+header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 3% 3% 3% 4%;
+    border-bottom: 2px solid aqua;
+}
+
+header div img{
+    width: 50px;
 }
