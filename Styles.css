@@ -32,3 +32,18 @@
 #Picture img{
     max-width: 100%;
 }
+
+#Gallery img {
+    display: inline-block;
+    color: aqua;
+    border-radius: 3.5;
+}
+
+.Gallery-slide {
+    width: 18.75rem;
+    height: 28.125rem;
+    display: flex;
+    flex-direction: column;
+    justify-content: end;
+    align-items: self-start;
+}
