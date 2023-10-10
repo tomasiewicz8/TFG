@@ -33,7 +33,7 @@
     max-width: 100%;
 }
 
-#Gallery img {
+.Gallery img {
     display: inline-block;
     color: aqua;
     border-radius: 3.5;
