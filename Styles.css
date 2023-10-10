@@ -1,12 +1,34 @@
-body {
-    background: rgb(255, 255, 255);
+* {
     margin: 0%;
 }
 
-header {
+/* HEADER*/
+
+.Container-header{
     display: flex;
-    justify-content: space-between; /* Coloca el contenido y el icono en los extremos */
+    justify-content: center;
     align-items: center;
-    width: 50%;
+    padding: 3%;
+    position: relative;
 }
 
+.Icons img {
+    width: 40%;
+}
+
+.Logo {
+    position: relative;
+    right: -5%;
+}
+
+.Login {
+    position: relative;
+    right: -18%;
+    width: 150%;
+}
+
+/* SECTION PICTURE*/
+
+#Picture img{
+    max-width: 100%;
+}
