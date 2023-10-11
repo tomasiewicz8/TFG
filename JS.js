@@ -1,4 +1,4 @@
-let gallery = new Gallery(".Gallery", {
+let gallery = new Swiper(".Gallery", {
     effect: "coverflow",
     grabCursor: true,
     centeredSlides: true,
