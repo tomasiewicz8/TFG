@@ -19,6 +19,8 @@
 .Logo {
     position: relative;
     right: -5%;
+    bottom: -25%;
+    width: 170%;
 }
 
 .Login {
